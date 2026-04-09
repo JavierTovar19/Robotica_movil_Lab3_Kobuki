@@ -10,7 +10,7 @@ from tf.transformations import euler_from_quaternion
 class bot:
     def __init__(self, rate=10):
         rospy.init_node('pypubvel', anonymous=False) 
-        self.pose = rospy.Subscriber("/odom", Odometry, self.callback_pose)
+        self.pose = rospy.Subscriber("/odom", Odometry, self.callback)
         self.pub = rospy.Publisher("/mobile_base/commands/velocity", Twist, queue_size=10)
         self.x = 0
         self.y=0
