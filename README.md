@@ -28,6 +28,6 @@ En la interfaz mostrada podemos verificar el funcionamiento de los sensores y la
 <img width="786" height="473" alt="image" src="https://github.com/user-attachments/assets/f68610f9-0e8e-42f4-b6b8-518e4fb2f2fe" />
 
 ### Video demostrativo
-[Clip de sensores](./.img/square.mp4)
+[Clip trayectoria cuadrado](./.img/square.mp4)
 
 
