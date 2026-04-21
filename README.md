@@ -31,3 +31,8 @@ En la interfaz mostrada podemos verificar el funcionamiento de los sensores y la
 [Clip trayectoria cuadrado](./.img/square.mp4)
 
 
+Se usa el comando personalizado **jcatkin_make** para compilar el proyecto.
+
+[![Ejecución del pentagono en YouTube](https://img.youtube.com/shorts/RBEWbSPdgbM/0.jpg)](https://youtube.com/shorts/RBEWbSPdgbM)
+
+
