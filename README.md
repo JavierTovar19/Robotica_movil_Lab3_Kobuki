@@ -30,9 +30,19 @@ En la interfaz mostrada podemos verificar el funcionamiento de los sensores y la
 ### Video demostrativo
 [Clip trayectoria cuadrado](./.img/square.mp4)
 
-
 Se usa el comando personalizado **jcatkin_make** para compilar el proyecto.
 
-[![Ejecución del pentagono en YouTube](https://img.youtube.com/shorts/RBEWbSPdgbM/0.jpg)](https://youtube.com/shorts/RBEWbSPdgbM)
+
+[![Ejecución del cuadrado en YouTube](https://img.youtube.com/vi/RsvuSK9Lx3Q/0.jpg)](https://youtube.com/vi/RsvuSK9Lx3Q)
+> **Nota:** Si no tienes acceso a YouTube, también puedes ver el video desde el repositorio:
+> **[▶️ Ver versión local del video](.img/LAB3_Cuadrado.mp4)**
 
 
+[![Ejecución del pentagono en YouTube](https://img.youtube.com/vi/RBEWbSPdgbM/0.jpg)](https://youtube.com/shorts/RBEWbSPdgbM)
+> **Nota:** Si no tienes acceso a YouTube, también puedes ver el video desde el repositorio:
+> **[▶️ Ver versión local del video](.img/LAB3_Pentagono.mp4)**
+
+
+[![Ejecución de los topicos](https://img.youtube.com/vi/KQZrWIAi6mk/0.jpg)](https://youtube.com/vi/KQZrWIAi6mk)
+> **Nota:** Si no tienes acceso a YouTube, también puedes ver el video desde el repositorio:
+> **[▶️ Ver versión local del video](.img/LAB3_MensajesROS.mp4)**
