@@ -29,8 +29,9 @@ En la interfaz mostrada podemos verificar el funcionamiento de los sensores y la
 
 
   ### Diagrama de Flujo del nodo final desarrollado (Controlclases.py)
+  <img width="786" height="473" alt="image" src="./.img/DiagramadeFlujoControlClases.png" />
 
-  [DF2](./.img/DiagramadeFlujoControlClases.png)
+ 
 ### Video demostrativo
 [Clip trayectoria cuadrado](./.img/square.mp4)
 
