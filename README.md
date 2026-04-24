@@ -23,10 +23,14 @@ En la interfaz mostrada podemos verificar el funcionamiento de los sensores y la
   En cada iteración, primero realiza un giro hasta que el ángulo de orientación (yaw) alcanza un umbral específico.
   
   Posteriormente, desplaza el robot en línea recta durante un número determinado de ciclos (500 iteraciones) antes de pasar al siguiente giro.
-  ### Diagrama de flujo
+  ### Diagrama de flujo para manejo simple
  
 <img width="786" height="473" alt="image" src="https://github.com/user-attachments/assets/f68610f9-0e8e-42f4-b6b8-518e4fb2f2fe" />
 
+
+  ### Diagrama de Flujo del nodo final desarrollado (Controlclases.py)
+
+  [DF2](./.img/DiagramadeFlujoControlClases.png)
 ### Video demostrativo
 [Clip trayectoria cuadrado](./.img/square.mp4)
 
